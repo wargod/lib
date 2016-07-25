@@ -1,0 +1,24 @@
+{
+    "name": "wargod/lib",
+    "description": "lib",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.9"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "liwei",
+            "email": "liwei_ch@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/wargod/lib/issues?state=open",
+        "wiki": "https://github.com/wargod/lib/wiki",
+        "source": "https://github.com/wargod/lib"
+    },
+    "autoload": {
+        "psr-4": {"wargod\\": ""}
+    }
+}
